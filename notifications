@@ -1,3 +1,6 @@
+#The code has been created for flashing notifications/reminders on macOS.
+#The notification will flash in 1500 seconds or 25 minutes. The user can adjust the number of seconds as per requirements. 
+
 import pync
 import time
 
