@@ -1,0 +1,6 @@
+import pync
+import time
+
+while True:
+    pync.notify("Reminder - Please drink water, do eye/body exercise")
+    time.sleep(1500)
